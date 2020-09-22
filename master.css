@@ -1,0 +1,13 @@
+body {
+  background: url("https://source.unsplash.com/nfquAxPsU7Y/800x800") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.form-control{
+  width:20 rem;
+  margin left:40px;
+  margin-right:40px;
+}

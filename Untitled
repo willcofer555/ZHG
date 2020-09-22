@@ -1,0 +1,7 @@
+
+
+.form-control{
+  width:20 rem;
+  margin left:40px;
+  margin-right:40px;
+}
